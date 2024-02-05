@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou @edsgabriel
+- 👋 Olá, eu sou @edsgabrieel
 - 👀 Estou interessado em atuar na area de TI
 - 🌱 Atualmente estou aprendendo muito no curso de Análise e Desenvolvimento de Sistemas
 - 💞️ Procuro colaborar na aprendizagem da area com cursos extra curriculares, para assim expandir mais ainda o conhecimento.
